@@ -8,6 +8,7 @@ node default {
 	class {'chocolatey':}
 	class {'putty':}
 	class {'apache':}
+	class {'git':}
 }
 
 
